@@ -2,7 +2,7 @@
 
 Welcome to Diversidy!
 
-**[www.diversidy.com]**
+**<u>[www.diversidy.com]</u>**
 
 Diversidy is a web application **in beta** that allows users to view and analyze the diversification of their investment portfolio across multiple brokerages. With Diversidy, you can easily see how your investments are distributed among different asset classes, sectors, and geographies, and determine if your portfolio is adequately diversified to meet your financial goals.
 
