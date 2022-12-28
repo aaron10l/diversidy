@@ -8,7 +8,7 @@ Diversidy is a web application **in beta** that allows users to view and analyze
 
 ## Getting Started
 
-To get started with Diversidy, you will need to create an account and connect it to the brokerages where you hold your investments. Diversidy currently supports the following brokerages:
+To get started with Diversidy, you will need to create a beta tester account and connect it to the brokerages where you hold your investments. Diversidy currently supports the following brokerages:
 
 - TD Ameritrade
 - Charles Schwab
