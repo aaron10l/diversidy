@@ -1,0 +1,1 @@
+#accessing td ameritrade data
