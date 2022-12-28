@@ -2,15 +2,17 @@
 
 Welcome to Diversidy!
 
-Diversidy is a web application that allows users to view and analyze the diversification of their investment portfolio across multiple brokerages. With Diversidy, you can easily see how your investments are distributed among different asset classes, sectors, and geographies, and determine if your portfolio is adequately diversified to meet your financial goals.
+**[www.diversidy.com]**
+
+Diversidy is a web application **in beta** that allows users to view and analyze the diversification of their investment portfolio across multiple brokerages. With Diversidy, you can easily see how your investments are distributed among different asset classes, sectors, and geographies, and determine if your portfolio is adequately diversified to meet your financial goals.
 
 ## Getting Started
 
 To get started with Diversidy, you will need to create an account and connect it to the brokerages where you hold your investments. Diversidy currently supports the following brokerages:
 
-- Brokerage 1
-- Brokerage 2
-- Brokerage 3
+- TD Ameritrade
+- Charles Schwab
+- E*Trade by Morgan Stanley
 
 Once you have connected your brokerages, Diversidy will automatically import your investment data and present it in an easy-to-understand dashboard. From the dashboard, you can view your portfolio's diversification across various metrics, including asset allocation, sector allocation, and geographic allocation.
 
