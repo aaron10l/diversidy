@@ -1,78 +1,27 @@
-# Free Tailwind landing page template
+# Diversidy - Investment Portfolio Diversification Tool
 
-![Simple TailwindCSS template preview](https://user-images.githubusercontent.com/2683512/96160974-f93aa780-0f16-11eb-9ce4-81d94b216be6.png)
+Welcome to Diversidy!
 
-**Simple Light** is a free landing page template built on top of **TailwindCSS** and fully coded in **React**. Simple light is designed to provide all the basic components a developer need to create a landing page for SaaS products, online services, and more. 
-Use it for whatever you want, and be sure to reach us out on Twitter if you build anything cool/useful with it.
-Created and maintained with ❤️ by [Cruip.com](https://cruip.com/).
+Diversidy is a web application that allows users to view and analyze the diversification of their investment portfolio across multiple brokerages. With Diversidy, you can easily see how your investments are distributed among different asset classes, sectors, and geographies, and determine if your portfolio is adequately diversified to meet your financial goals.
 
-## Live demo
+## Getting Started
 
-Check the live demo here 👉️ [https://simple.cruip.com/](https://simple.cruip.com/)
+To get started with Diversidy, you will need to create an account and connect it to the brokerages where you hold your investments. Diversidy currently supports the following brokerages:
 
-## Simple Pro
+- Brokerage 1
+- Brokerage 2
+- Brokerage 3
 
-[![Simple Pro](https://user-images.githubusercontent.com/2683512/151178282-fd81b300-349a-42c3-a30a-f70f6e711e74.png)](https://cruip.com/)
+Once you have connected your brokerages, Diversidy will automatically import your investment data and present it in an easy-to-understand dashboard. From the dashboard, you can view your portfolio's diversification across various metrics, including asset allocation, sector allocation, and geographic allocation.
 
-## Design files
+## Additional Tools
 
-If you need the design files, you can download them from Figma's Community 👉 https://bit.ly/3HOZMpf
+In addition to the dashboard, Diversidy also offers a number of tools to help you analyze and optimize your portfolio's diversification. These tools include:
 
-## Table of contents
+- A portfolio simulator that allows you to see how changes to your portfolio's asset allocation would affect its risk and return.
+- A risk analysis tool that helps you understand the risks associated with your portfolio and how they are distributed among different asset classes.
+- A portfolio optimization tool that suggests a more diversified portfolio based on your financial goals and risk tolerance.
 
-* [Usage](#usage)
-  * [Project setup](#project-setup)
-  * [Compiles and hot-reloads for development](#compiles-and-hot-reloads-for-development)
-  * [Compiles and minifies for production](#compiles-and-minifies-for-production)
-  * [Customize configuration](#customize-configuration)
-* [Support notes](#support-notes)            
-* [Credits](#credits)
-* [Terms and License](#terms-and-license)
-* [About Us](#about-us)
-* [Stay in the loop](#stay-in-the-loop)
+## Contact Us
 
-## Usage
-
-This project was bootstrapped with [Vite](https://vitejs.dev/).
-
-### Project setup
-```
-npm install
-```
-
-#### Compiles and hot-reloads for development
-```
-npm run dev
-```
-
-#### Compiles and minifies for production
-```
-npm run build
-```
-
-#### Customize configuration
-See [Configuration Reference](https://vitejs.dev/guide/).
-
-### Support notes
-We are shipping our templates with a very basic React configuration to let you quickly get into the development process, but we don't discourage you from using any other configuration or framework built on the top of React. So, please note that any request dealing with React (e.g. extra features, customisations, et cetera) is to be considered out of the support scope.
-
-For more information about what support covers, please see our (FAQs)[https://cruip.com/faq/].
-
-## Credits
-
-- [Nucleo](https://nucleoapp.com/)
-
-## Terms and License
-
-- Released under the [GPL](https://www.gnu.org/licenses/gpl-3.0.html).
-- Copyright 2020 [Cruip](https://cruip.com/).
-- Use it for personal and commercial projects, but please don’t republish, redistribute, or resell the template.
-- Attribution is not required, although it is really appreciated.
-
-## About Us
-
-We're an Italian developer/designer duo creating high-quality design/code resources for developers, makers, and startups.
-
-## Stay in the loop
-
-If you would like to know when we release new resources, you can follow us on [Twitter](https://twitter.com/Cruip_com), or you can subscribe to our monthly [newsletter](https://cruip.com/#subscribe).
+We hope you enjoy using Diversidy and find it helpful in managing your investment portfolio. If you have any questions or feedback, please don't hesitate to [contact us](mailto:info@diversidy.com).
